@@ -123,64 +123,154 @@
     * [CDN 推送](#cdn-推送push)
     * [CDN 拉取](#cdn-拉取pull)
 * [负载均衡器](#负载均衡器)
+* load balancer 
     * [工作到备用切换（Active-passive）](#工作到备用切换active-passive)
+    * switch from working to replication
+    * [active-passive]
     * [双工作切换（Active-active）](#双工作切换active-active)
+    * double work switch 
+    * [active-active]
     * [四层负载均衡](#四层负载均衡)
+    * four layer load balance
+    * [layer 4 load balancing]
     * [七层负载均衡](#七层负载均衡器)
+    * 7 layers load balance
+    * [layer 7 load balancing]
     * [水平扩展](#水平扩展)
+    * horizontal scale up 
+    * [horizontal scaling]
 * [反向代理（web 服务器）](#反向代理web-服务器)
+* reverse proxy (web server)
     * [负载均衡与反向代理](#负载均衡器与反向代理)
+    * load balance and reverse proxy
+    * [load balancer vs reverse proxy]
 * [应用层](#应用层)
+* application layer
     * [微服务](#微服务)
+    * micro-service
     * [服务发现](#服务发现)
+    * service discovery 
 * [数据库](#数据库)
+* database 
     * [关系型数据库管理系统（RDBMS）](#关系型数据库管理系统rdbms)
+    * relational database management system
         * [Master-slave 复制集](#主从复制)
+        * master slave replication
         * [Master-master 复制集](#主主复制)
+        * master master replication
         * [联合](#联合)
+        * join 
+        * [federation]
         * [分片](#分片)
+        * shard 
+        * [sharding]
         * [非规范化](#非规范化)
+        * non normalize
+        * [denormalization]
         * [SQL 调优](#sql-调优)
+        * sql optimization 
+        * [sql turning]
     * [NoSQL](#nosql)
         * [Key-value 存储](#键-值存储)
+        * key value storage 
+        * [key-value store]
         * [文档存储](#文档类型存储)
+        * document storage
+        * [document store]
         * [宽列存储](#列型存储)
+        * colomun storage
+        * [wide column store]
         * [图数据库](#图数据库)
+        * digram/graph database
+        * [graph database]
     * [SQL 还是 NoSQL](#sql-还是-nosql)
+    * sql or non sql 
 * [缓存](#缓存)
+* cache
     * [客户端缓存](#客户端缓存)
+    * client caching
     * [CDN 缓存](#cdn-缓存)
+    * cdn caching
     * [Web 服务器缓存](#web-服务器缓存)
+    * web server caching
     * [数据库缓存](#数据库缓存)
+    * database caching
     * [应用缓存](#应用缓存)
+    * application caching
     * [数据库查询级别的缓存](#数据库查询级别的缓存)
+    * database query level cache
+    * [caching at database query level]
     * [对象级别的缓存](#对象级别的缓存)
+    * object level cache
+    * [caching at the object level]
     * [何时更新缓存](#何时更新缓存)
+    * when to update cache
         * [缓存模式](#缓存模式)
+        * cache models
+        * [cache-aside]
         * [直写模式](#直写模式)
+        * write directly
+        * [write-through]
         * [回写模式](#回写模式)
+        * call back model
+        * [write-behind (write-back)]
         * [刷新](#刷新)
+        * refresh 
+        * [refresh-ahead]
 * [异步](#异步)
+* asynchronize
+* [asynchronism]
     * [消息队列](#消息队列)
+    * message queues
     * [任务队列](#任务队列)
+    * task queues
     * [背压机制](#背压)
+    * back pressure mechanism 
+    * [back pressure]
 * [通讯](#通讯)
+* communication 
     * [传输控制协议（TCP）](#传输控制协议tcp)
+    * transformation communication protocol
+    * [transmission control protocol]
     * [用户数据报协议（UDP）](#用户数据报协议udp)
+    * user data gram protocol
+    * [user datagram protocol]
     * [远程控制调用协议（RPC）](#远程过程调用协议rpc)
+    * remote procedure call
     * [表述性状态转移（REST）](#表述性状态转移rest)
+    * representative 
+    * [reprenstational state transfer]
 * [安全](#安全)
+* secuirty
 * [附录](#附录)
+* appendix
     * [2 的次方表](#2-的次方表)
+    * pows of 2 table
     * [每个程序员都应该知道的延迟数](#每个程序员都应该知道的延迟数)
+    * latency that every developer should know
+    * [latency number that every programmer should know]
     * [其它的系统设计面试题](#其它的系统设计面试题)
+    * additional system design interview questions
     * [真实架构](#真实架构)
+    * acutal architecture
+    * [real world architectures]
     * [公司的系统架构](#公司的系统架构)
+    * system architecture of company
+    * [company architectures]
     * [公司工程博客](#公司工程博客)
+    * engineering blog in company
+    * [company engineering blogs]
 * [正在完善中](#正在完善中)
+* continually improve
+* [under development]
 * [致谢](#致谢)
+* thanks
+* [credits]
 * [联系方式](#联系方式)
+* contact method
+* [contact info]
 * [许可](#许可)
+* license
 
 ## 学习指引
 
