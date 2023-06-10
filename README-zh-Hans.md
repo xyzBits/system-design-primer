@@ -273,26 +273,73 @@
 * license
 
 ## 学习指引
+## leanring guideline
+## [study guide]
 
 > 基于你面试的时间线（短、中、长）去复习那些推荐的主题。
+
+> review recommendated topic according to interview duration
+
+>[Suggested topics to review based on your interview timeline(short, medium, long)] 
 
 ![Imgur](images/OfVllex.png)
 
 **问：对于面试来说，我需要知道这里的所有知识点吗？**
 
+**Q: Do I need to master all the topics for interview?**
+**[Q: For interviews, do I need to know everything here?]**
+
 **答：不，如果只是为了准备面试的话，你并不需要知道所有的知识点。**
+
+**Q: No, you do not need to master all topic, just for interview**
+
+**[Q: No, you don't need to know everything here to prepare for the interview.]**
 
 在一场面试中你会被问到什么取决于下面这些因素：
 
+what questions will be asked depend on the following factors:
+
+[what you are asked in an interview depends on variables such as]
+
 * 你的经验
+* your experiences
+* [How much experience you have]
 * 你的技术背景
+* your technical background
+* [What your technical background is]
 * 你面试的职位
+* position you are interviewing
+* [What positions you are interviewing for]
 * 你面试的公司
+* company you are interviewing
+* [Which company you are interviewing with]
 * 运气
+* fortune
+* [Luck]
 
-那些有经验的候选人通常会被期望了解更多的系统设计的知识。架构师或者团队负责人则会被期望了解更多除了个人贡献之外的知识。顶级的科技公司通常也会有一次或者更多的系统设计面试。
+那些有经验的候选人通常会被期望了解更多的系统设计的知识。
+架构师或者团队负责人则会被期望了解更多除了个人贡献之外的知识。
+顶级的科技公司通常也会有一次或者更多的系统设计面试。
 
-面试会很宽泛的展开并在几个领域深入。这会帮助你了解一些关于系统设计的不同的主题。基于你的时间线，经验，面试的职位和面试的公司对下面的指导做出适当的调整。
+experienced candidate will expected to master more system design knowledge.
+architect or team lead will be expected to master more knowldge beside your contributes.
+top tech company will have one or more system desgin interview
+
+[More experienced candidates are generally expected to know more about system design.
+Architects or team leads might be expected to know more then individual contributors.
+Top tech companies are likely to have one or more design interview rounds]
+
+面试会很宽泛的展开并在几个领域深入。
+这会帮助你了解一些关于系统设计的不同的主题。
+基于你的时间线，经验，面试的职位和面试的公司对下面的指导做出适当的调整。
+
+interview will include broadly and deep in several topic. 
+this will help you know different topic about system design 
+adapt your scheme based on your timeline, experience, and positions you are interviewing
+
+[Start broad and go deeper in a few areas. It help to know a little about various key 
+system design topics. Adjust the following guide based on your timeline, experience, 
+what positions you are interviewing for, and which companies you are interviewing with]
 
 * **短期** - 以系统设计主题的**广度**为目标。通过解决**一些**面试题来练习。
 * **中期** - 以系统设计主题的**广度**和**初级深度**为目标。通过解决**很多**面试题来练习。
